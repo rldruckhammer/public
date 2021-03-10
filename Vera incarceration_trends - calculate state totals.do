@@ -17,7 +17,7 @@ global raw Raw data files/Vera/Incarceration Trends/data thru $curr_yr/files fro
 
 *formatted data file path - note to use "/" instead of "\" here. don't put this in quotes.
 global fmt Formatted data files/Vera
-
+ 
 
 /*************************************************************
 *NOTE: Stata variable names can only be 32 chars; can't rename 
